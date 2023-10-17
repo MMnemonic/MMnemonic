@@ -34,20 +34,6 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 🌟 Let's connect and build something amazing together. Feel free to explore my repositories and reach out for exciting opportunities and collaborations!
 
 
-* 🧐   Interested in AI and ML. Recent focus on OpenCv Projects.
-* 🎓   Multiple MIT Data Science courses completed.
-* 🌱   Currently learning Math & Reasoning.
-* 📚   Reading more about Philosophy: Existential novels, mostly.
-* 💻   With 15 years' computer science and technology education experience.
-* ⛵   Encouraging people for open source collaborations.
-
-<!-- <details>
-  <summary>Some other achievements about me~e~e</summary>
-  <br> -->
-
-* 🎉   Professional Membership of CSI.
-* 👩‍💻   Ethical Hacker. 🎮 & Call of Duty Lover.🤪
-
 <p align="center">
 <a><img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/giphy.gif" height="100" width="100"/></a>
 <a><img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/do.gif" height="100" width="100"/></a>
