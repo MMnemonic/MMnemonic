@@ -39,8 +39,9 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 <img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/do.gif" height="100" width="100"/>
 <img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/github.gif" height="100" width="100"/>
 <img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/postgresql.gif" height="100" width="100"/>
-<img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/js-tf.avif" height="100" width="100"/>
+<img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/js.png" height="100" width="100"/>
 </p>
+
 
 * 👑   Some GitHub statistical reports:
 
