@@ -4,11 +4,11 @@
 
 I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python development** for a living and also **Write some blogs**. 🌈    
 
-* 🧐   Interested in Ai and ML. Recent focus on OpenCv Projects.
-* 🎓   Master of Science in Data Science, TOP 5%.
+* 🧐   Interested in AI and ML. Recent focus on OpenCv Projects.
+* 🎓   MIT consumer of Data Science courses.
 * 🌱   Currently learning Math & Reasoning.
-* 📚   Reading more about Apple, Harry Potter and how the computer works.
-* 💻   With 2 years' computer science and technology education experience.
+* 📚   Reading more about Philosophy: Existential novels mostly.
+* 💻   With 15 years' computer science and technology education experience.
 * ⛵   Encouraging people for open source collaborations.
 
 <!-- <details>
@@ -20,7 +20,6 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 
 <p align="center">
 <a><img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/giphy.gif" height="100" width="100"/></a>
-<a><img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/cpp.png" height="100" width="100"/></a>
 <a><img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/do.gif" height="100" width="100"/></a>
 <a><img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/github.gif" height="100" width="100"/>
 <a><img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/postgresql.gif" height="100" width="100"/></a>
