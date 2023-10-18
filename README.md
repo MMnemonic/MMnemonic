@@ -50,6 +50,11 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=react-advanced-form&bg_color=00000000)](https://github.com/MMnemonic/react-advanced-form)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=react-advanced-form&bg_color=00000000)](https://github.com/MMnemonic/react-advanced-form)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=chat&bg_color=00000000)](https://github.com/MMnemonic/chat)
+
+
 
 
 
