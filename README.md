@@ -46,30 +46,31 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 
 ## My Pinned Repositories
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
-<div style="min-width: 300px; margin: 5px;">
+<div style="flex: 1 1 250px; max-width: 350px; margin: 5px;">
   <a href="https://github.com/MMnemonic/accordion">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=accordion&bg_color=00000000" alt="Accordion Repository">
   </a>
 </div>
 
-<div style="min-width: 300px; margin: 5px;">
+<div style="flex: 1 1 250px; max-width: 350px; margin: 5px;">
   <a href="https://github.com/MMnemonic/react-advanced-form">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=react-advanced-form&bg_color=00000000" alt="React Advanced Form Repository">
   </a>
 </div>
 
-<div style="min-width: 300px; margin: 5px;">
+<div style="flex: 1 1 250px; max-width: 350px; margin: 5px;">
   <a href="https://github.com/MMnemonic/chat">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=chat&bg_color=00000000" alt="Chat Repository">
   </a>
 </div>
 
-<div style="min-width: 300px; margin: 5px;">
+<div style="flex: 1 1 250px; max-width: 350px; margin: 5px;">
   <a href="https://github.com/MMnemonic/iphone_den">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=iphone_den&bg_color=00000000" alt="iPhone Den Repository">
   </a>
 </div>
 
 </div>
+
