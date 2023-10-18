@@ -44,4 +44,12 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 </p>
 
 
+## My Pinned Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=accordion)](https://github.com/MMnemonic/accordion)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=react-advanced-form)](https://github.com/MMnemonic/react-advanced-form)
+
+
+
 
