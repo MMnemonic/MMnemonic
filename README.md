@@ -4,9 +4,9 @@
 
 👋 Hey there! I'm Alberto, a passionate Full Stack Developer with a love for crafting seamless web experiences.
 
-**Personal website:** https://albertommoura.com/
-
 I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python / Node development** for a living and also **Write some blogs**. 🌈  
+
+**Personal website:** https://albertommoura.com/
 
 🌐 Front-End Enthusiast:
 - Proficient in React, JavaScript, and TypeScript to create engaging user interfaces.
