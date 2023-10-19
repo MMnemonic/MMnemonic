@@ -4,6 +4,8 @@
 
 👋 Hey there! I'm Alberto, a passionate Full Stack Developer with a love for crafting seamless web experiences.
 
+**Personal website**: https://albertommoura.com/
+
 I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python / Node development** for a living and also **Write some blogs**. 🌈  
 
 🌐 Front-End Enthusiast:
@@ -46,70 +48,3 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 
 <img src="https://github.com/MMnemonic/MMnemonic/blob/main/icons/postgresql.gif" height="100" width="100"/>
 </p>
-
-
-## My Pinned Repositories
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/MMnemonic/accordion">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=accordion&bg_color=00000000" alt="Accordion Repository">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/MMnemonic/react-advanced-form">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=react-advanced-form&bg_color=00000000" alt="React Advanced Form Repository">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/MMnemonic/chat">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=chat&bg_color=00000000" alt="Chat Repository">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/MMnemonic/iphone_den">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=iphone_den&bg_color=00000000" alt="iPhone Den Repository">
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- Section 1 -->
-<table>
-<tr>
-<td>
-
-### Hello World:
-The Story Behind Building This Site
-
-</td>
-<td>
-
-![Image for Section 1](https://your-image-url-for-section-1.jpg)
-
-</td>
-</tr>
-</table>
-
-<!-- Section 2 -->
-<table>
-<tr>
-<td>
-
-### A Contemporary 
-Method for Styling in React.
-
-</td>
-<td>
-
-![Image for Section 2](https://your-image-url-for-section-2.jpg)
-
-</td>
-</tr>
-</table>
-
-
-
