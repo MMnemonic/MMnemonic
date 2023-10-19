@@ -6,7 +6,7 @@
 
 I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python / Node development** for a living and also **Write some blogs**. 🌈  
 
-**Personal website:** https://albertommoura.com/
+**Personal website:** <a href="https://albertommoura.com/" target="_blank">https://albertommoura.com/</a>
 
 🌐 Front-End Enthusiast:
 - Proficient in React, JavaScript, and TypeScript to create engaging user interfaces.
