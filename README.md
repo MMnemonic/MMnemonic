@@ -37,13 +37,15 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 <p align="center">
 <img src="https://github.com/MMnemonic/MMnemonic/blob/main/icons/giphy.gif" height="100" width="100"/>
 
-<p align="center">
-<img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/giphy.gif" height="100" width="100"/>
-<img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/js.png" height="100" width="100"/>
-<img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/docker.gif" height="100" width="100"/>
-<img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/do.gif" height="100" width="100"/>
-<img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/github.gif" height="100" width="100"/>
-<img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/postgresql.gif" height="100" width="100"/>
+<img src="https://github.com/MMnemonic/MMnemonic/blob/main/icons/js.png" height="100" width="100"/>
+
+<img src="https://github.com/MMnemonic/MMnemonic/blob/main/icons/docker.gif" height="100" width="100"/>
+
+<img src="https://github.com/MMnemonic/MMnemonic/blob/main/icons/do.gif" height="100" width="100"/>
+
+<img src="https://github.com/MMnemonic/MMnemonic/blob/main/icons/github.gif" height="100" width="100"/>
+
+<img src="https://github.com/MMnemonic/MMnemonic/blob/main/icons/postgresql.gif" height="100" width="100"/>
 </p>
 
 
