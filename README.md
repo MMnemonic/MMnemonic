@@ -77,4 +77,39 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
   </tr>
 </table>
 
+<!-- Section 1 -->
+<table>
+<tr>
+<td>
+
+### Hello World:
+The Story Behind Building This Site
+
+</td>
+<td>
+
+![Image for Section 1](https://your-image-url-for-section-1.jpg)
+
+</td>
+</tr>
+</table>
+
+<!-- Section 2 -->
+<table>
+<tr>
+<td>
+
+### A Contemporary 
+Method for Styling in React.
+
+</td>
+<td>
+
+![Image for Section 2](https://your-image-url-for-section-2.jpg)
+
+</td>
+</tr>
+</table>
+
+
 
