@@ -46,31 +46,10 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 
 ## My Pinned Repositories
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=accordion&bg_color=00000000)](https://github.com/MMnemonic/accordion)
 
-<div style="flex: 2 1 350px; max-width: 800px; margin: 5px;">
-  <a href="https://github.com/MMnemonic/accordion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=accordion&bg_color=00000000" alt="Accordion Repository">
-  </a>
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=react-advanced-form&bg_color=00000000)](https://github.com/MMnemonic/react-advanced-form)
 
-<div style="flex: 2 1 350px; max-width: 800px; margin: 5px;">
-  <a href="https://github.com/MMnemonic/react-advanced-form">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=react-advanced-form&bg_color=00000000" alt="React Advanced Form Repository">
-  </a>
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=react-advanced-form&bg_color=00000000)](https://github.com/MMnemonic/react-advanced-form)
 
-<div style="flex: 2 1 350px; max-width: 800px; margin: 5px;">
-  <a href="https://github.com/MMnemonic/chat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=chat&bg_color=00000000" alt="Chat Repository">
-  </a>
-</div>
-
-<div style="flex: 2 1 350px; max-width: 800px; margin: 5px;">
-  <a href="https://github.com/MMnemonic/iphone_den">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=iphone_den&bg_color=00000000" alt="iPhone Den Repository">
-  </a>
-</div>
-
-</div>
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MMnemonic&repo=chat&bg_color=00000000)](https://github.com/MMnemonic/chat)
