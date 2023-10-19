@@ -1,6 +1,7 @@
 # Hello there 👋
 
-![](https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/header_.png)
+<!-- ![](https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/header_.png) -->
+![](./icons/header_.png)
 
 👋 Hey there! I'm Alberto, a passionate Full Stack Developer with a love for crafting seamless web experiences.
 
@@ -33,6 +34,8 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 
 🌟 Let's connect and build something amazing together. Feel free to explore my repositories and reach out for exciting opportunities and collaborations!
 
+<p align="center">
+<img src="https://github.com/github_profile/MMnemonic/icons/giphy.gif" height="100" width="100"/>
 
 <p align="center">
 <img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/giphy.gif" height="100" width="100"/>
