@@ -1,7 +1,7 @@
 # Hello there 👋
 
 <!-- ![](https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/header_.png) -->
-![](./icons/header_.png)
+![](./MMnemonic/MMnemonic/icons/header_.png)
 
 👋 Hey there! I'm Alberto, a passionate Full Stack Developer with a love for crafting seamless web experiences.
 
