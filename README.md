@@ -4,7 +4,7 @@
 
 👋 Hey there! I'm Alberto, a passionate Full Stack Developer with a love for crafting seamless web experiences.
 
-I make elegantly professional <a href="https://albertommoura.com/" target="_blank">**🌐 Websites, 📱 Mobile apps and 💻 Python / Node development**</a> for a living and also <a href="https://albertommoura.com/articles/" target="_blank">**Write some blogs**</a>. 🌈
+I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python / Node development** for a living and also <a href="https://albertommoura.com/articles/" target="_blank">**Write some blogs**</a>. 🌈
 
 
 **Personal website:** <a href="https://albertommoura.com/" target="_blank">https://albertommoura.com/</a><br>
