@@ -35,7 +35,7 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 🌟 Let's connect and build something amazing together. Feel free to explore my repositories and reach out for exciting opportunities and collaborations!
 
 <p align="center">
-<img src="https://github.com/github_profile/MMnemonic/icons/giphy.gif" height="100" width="100"/>
+<img src="https://github.com/MMnemonic/MMnemonic/blob/main/icons/giphy.gif" height="100" width="100"/>
 
 <p align="center">
 <img src="https://github.com/siddharthdeo99/siddharthdeo99/blob/master/siddharthdeo99/siddharthdeo99/icons/giphy.gif" height="100" width="100"/>
