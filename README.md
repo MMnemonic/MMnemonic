@@ -50,6 +50,7 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 <img src="https://github.com/MMnemonic/MMnemonic/blob/main/icons/github.gif" height="100" width="100"/>
 
 <img src="https://github.com/MMnemonic/MMnemonic/blob/main/icons/postgresql.gif" height="100" width="100"/>
+
 </p>
 
 
@@ -83,8 +84,8 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 </table>
 
 <!-- Section 1 -->
-<table>
+<!-- <table>
 <tr>
 <td>
 
- -->
+ --> 
