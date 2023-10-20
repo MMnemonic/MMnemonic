@@ -38,6 +38,9 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 
 🌟 Let's connect and build something amazing together. Feel free to explore my repositories and reach out for exciting opportunities and collaborations!
 
+
+![Ghost in a Shell](https://giphy.com/gifs/typing-tech-sci-fi-FqdGGgugkC4Xm/fullscreen)
+
 <p align="center">
 <img src="https://github.com/MMnemonic/MMnemonic/blob/main/icons/giphy.gif" height="100" width="100"/>
 
