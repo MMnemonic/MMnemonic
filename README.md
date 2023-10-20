@@ -53,7 +53,7 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 </p>
 
 
-## My Pinned Repositories
+<!-- ## My Pinned Repositories
 
 <table>
   <tr>
@@ -87,3 +87,4 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 <tr>
 <td>
 
+ -->
