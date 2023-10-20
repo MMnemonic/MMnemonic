@@ -39,7 +39,8 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 🌟 Let's connect and build something amazing together. Feel free to explore my repositories and reach out for exciting opportunities and collaborations!
 
 
-![Hacking Time](./icons/hack-time.gif)
+<!-- ![Hacking Time](./icons/hack-time.gif) -->
+<img src="./icons/hack-time.gif" width="100%" height="auto">
 
 <p></p>
 
