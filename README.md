@@ -41,6 +41,7 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 
 ![Hacking Time](./icons/hack-time.gif)
 
+<p></p>
 
 
 <p align="center">
