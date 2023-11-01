@@ -8,7 +8,8 @@ I make elegantly professional **🌐 Websites, 📱 Mobile apps and 💻 Python 
 
 
 **Personal website:** <a href="https://albertommoura.com/" target="_blank">https://albertommoura.com/</a><br>
-**GitHub Profile:** <a href="https://github.com/MMnemonic/" target="_blank">https://github.com/MMnemonic/</a>
+**GitHub Profile:** <a href="https://github.com/MMnemonic/" target="_blank">https://github.com/MMnemonic/</a><br>
+**LinkedIn Profile:** <a href="https://www.linkedin.com/in/albertommoura/" target="_blank">https://www.linkedin.com/in/albertommoura/</a>
 
 
 🌐 Front-End Enthusiast:
